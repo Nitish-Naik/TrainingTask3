@@ -1,13 +1,15 @@
 ### TrainingTask3
 
 
-# TrainingTask3
+![image](https://github.com/user-attachments/assets/4c838990-5b4b-49e9-9379-9e74ce1b2a3a)
+![image](https://github.com/user-attachments/assets/299b60a5-91fb-44b2-822d-9e7a6ae5bcb0)
+![image](https://github.com/user-attachments/assets/c138b19c-d6d5-4772-b902-be00b74a0c75)
+![image](https://github.com/user-attachments/assets/f1f78652-4001-4fa4-9172-13fe4b3a4a87)
+![image](https://github.com/user-attachments/assets/7f48d2cf-c197-4452-8a82-da502775aeac)
+![image](https://github.com/user-attachments/assets/7be1ac8d-8c5e-4bcc-9cfb-a7a5051934a8)
 
-![image](https://github.com/user-attachments/assets/367eb9d7-c24b-4320-84e2-e074b5224768)
-![image](https://github.com/user-attachments/assets/38f0cc04-9c23-4b82-96b9-1387350ebab6)
-![image](https://github.com/user-attachments/assets/5c794712-4b63-4f71-8799-97ea1fc676e4)
-![image](https://github.com/user-attachments/assets/9e62f9c4-50db-4bdf-b74b-8ba50d75d1bf)
-![image](https://github.com/user-attachments/assets/4417c7d2-1296-4fa9-8084-1b7f4f07e3ff)
+
+
 
 =======
 ## Getting Started
